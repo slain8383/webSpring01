@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+body{width:800px; margin:0 auto;}
+ul, li{margin:0px; padding:0px; list-style-type:none}
+li{height:40px; float:left}
+ul>li{width:100px}
+ul>li:nth-child(2){width:400px;}
